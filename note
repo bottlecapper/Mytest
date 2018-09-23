@@ -5,3 +5,10 @@ git commit -help # See all commit options, for example:
 	git add filename 	# Add new file to be tracked
 	git commit -a 		# Commit all changes to the local version of the repo
 	git commit -m "message" # Commit with message
+
+
+Getting Started with Git
+https://www.linode.com/docs/development/version-control/how-to-configure-git/
+
+A book "Pro Git"
+https://git-scm.com/book/en/v1/
